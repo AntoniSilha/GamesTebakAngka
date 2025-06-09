@@ -1,0 +1,16 @@
+* {
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+.Credit {
+    display: flex;
+    color: black;
+    background-color: grey;       
+    justify-content: center;    
+    text-align: center;
+    flex-direction: column;
+    font-family: "Poppins";
+    height: 100vh;
+}
